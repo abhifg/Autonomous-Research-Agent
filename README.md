@@ -33,7 +33,7 @@ Breaks the input topic into structured sections and ensures logical, non-overlap
 ### Researcher Agent
 Generates concise and relevant research points, filtering noise and focusing on key insights.
 
-### Writer Agent
+### Writer + Editor Agent
 Converts research into well-written sections with clarity, coherence, and a professional tone.
 
 ### Synthesizer
@@ -83,4 +83,4 @@ streamlit run app.py
 ```
 ## Author
 
-Abhirup
+Abhirup Ghosh
